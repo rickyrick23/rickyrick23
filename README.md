@@ -15,9 +15,9 @@
 ### 🧠 About Me
 
 - Building production-grade AI systems at the intersection of **LLMs, RAG pipelines, and backend engineering**
-- Currently interning as a **Backend Engineer** working with Go, PostgreSQL, and LLM integration
-- Previously built a **HIPAA-compliant GPT assistant** on AWS with 99% uptime for a Swedish healthtech startup
-- Passionate about systems that are robust, scalable, and actually useful in the real world
+- My work spans generative AI, NLP, cloud deployment, and scalable API development
+- Focused on building things that are robust, scalable, and actually useful in the real world
+- Open to connecting with people working on interesting problems in AI and software engineering
 
 ---
 
