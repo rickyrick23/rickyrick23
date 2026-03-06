@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohit Mukherjee 👋</h1>
 
 <p align="center">
-  Final-Year CS Student • AI & Backend Engineering • RAG • LLMs • FastAPI • Go
+  Final-Year CS Student • AI & Backend Engineering • Open to Opportunities
 </p>
 
 <p align="center">
